@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victor Albrecht\\source\\repos\\Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D861E762-0475-40A7-84A1-C2BA67FF9AF4}|Biblioteca\\Biblioteca.csproj|c:\\users\\victor albrecht\\source\\repos\\biblioteca\\biblioteca\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D861E762-0475-40A7-84A1-C2BA67FF9AF4}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D861E762-0475-40A7-84A1-C2BA67FF9AF4}|Biblioteca\\Biblioteca.csproj|c:\\users\\victor albrecht\\source\\repos\\biblioteca\\biblioteca\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D861E762-0475-40A7-84A1-C2BA67FF9AF4}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D861E762-0475-40A7-84A1-C2BA67FF9AF4}|Biblioteca\\Biblioteca.csproj|c:\\users\\victor albrecht\\source\\repos\\biblioteca\\biblioteca\\controllers\\locatariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D861E762-0475-40A7-84A1-C2BA67FF9AF4}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\controllers\\locatariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D861E762-0475-40A7-84A1-C2BA67FF9AF4}|Biblioteca\\Biblioteca.csproj|c:\\users\\victor albrecht\\source\\repos\\biblioteca\\biblioteca\\model\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D861E762-0475-40A7-84A1-C2BA67FF9AF4}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\model\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D861E762-0475-40A7-84A1-C2BA67FF9AF4}|Biblioteca\\Biblioteca.csproj|c:\\users\\victor albrecht\\source\\repos\\biblioteca\\biblioteca\\model\\locatario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D861E762-0475-40A7-84A1-C2BA67FF9AF4}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\model\\locatario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D861E762-0475-40A7-84A1-C2BA67FF9AF4}|Biblioteca\\Biblioteca.csproj|c:\\users\\victor albrecht\\source\\repos\\biblioteca\\biblioteca\\model\\aluguel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D861E762-0475-40A7-84A1-C2BA67FF9AF4}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\model\\aluguel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D861E762-0475-40A7-84A1-C2BA67FF9AF4}|Biblioteca\\Biblioteca.csproj|c:\\users\\victor albrecht\\source\\repos\\biblioteca\\biblioteca\\model\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D861E762-0475-40A7-84A1-C2BA67FF9AF4}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\model\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D861E762-0475-40A7-84A1-C2BA67FF9AF4}|Biblioteca\\Biblioteca.csproj|c:\\users\\victor albrecht\\source\\repos\\biblioteca\\biblioteca\\profiles\\aluguelprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D861E762-0475-40A7-84A1-C2BA67FF9AF4}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\profiles\\aluguelprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D861E762-0475-40A7-84A1-C2BA67FF9AF4}|Biblioteca\\Biblioteca.csproj|c:\\users\\victor albrecht\\source\\repos\\biblioteca\\biblioteca\\profiles\\locatarioprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D861E762-0475-40A7-84A1-C2BA67FF9AF4}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\profiles\\locatarioprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Albrecht\\source\\repos\\Biblioteca\\Biblioteca\\Model\\Livro.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Model\\Livro.cs",
+              "ToolTip": "C:\\Users\\Victor Albrecht\\source\\repos\\Biblioteca\\Biblioteca\\Model\\Livro.cs",
+              "RelativeToolTip": "Biblioteca\\Model\\Livro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:43:42.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutorController.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Albrecht\\source\\repos\\Biblioteca\\Biblioteca\\Controllers\\AutorController.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Controllers\\AutorController.cs",
+              "ToolTip": "C:\\Users\\Victor Albrecht\\source\\repos\\Biblioteca\\Biblioteca\\Controllers\\AutorController.cs",
+              "RelativeToolTip": "Biblioteca\\Controllers\\AutorController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAUwIIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:42:06.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LivroController.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Albrecht\\source\\repos\\Biblioteca\\Biblioteca\\Controllers\\LivroController.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Controllers\\LivroController.cs",
+              "ToolTip": "C:\\Users\\Victor Albrecht\\source\\repos\\Biblioteca\\Biblioteca\\Controllers\\LivroController.cs",
+              "RelativeToolTip": "Biblioteca\\Controllers\\LivroController.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAmwJwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:37:34.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Locatario.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Albrecht\\source\\repos\\Biblioteca\\Biblioteca\\Model\\Locatario.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Model\\Locatario.cs",
+              "ToolTip": "C:\\Users\\Victor Albrecht\\source\\repos\\Biblioteca\\Biblioteca\\Model\\Locatario.cs",
+              "RelativeToolTip": "Biblioteca\\Model\\Locatario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:41:47.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Aluguel.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Albrecht\\source\\repos\\Biblioteca\\Biblioteca\\Model\\Aluguel.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Model\\Aluguel.cs",
+              "ToolTip": "C:\\Users\\Victor Albrecht\\source\\repos\\Biblioteca\\Biblioteca\\Model\\Aluguel.cs",
+              "RelativeToolTip": "Biblioteca\\Model\\Aluguel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:41:27.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocatarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Albrecht\\source\\repos\\Biblioteca\\Biblioteca\\Controllers\\LocatarioController.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Controllers\\LocatarioController.cs",
+              "ToolTip": "C:\\Users\\Victor Albrecht\\source\\repos\\Biblioteca\\Biblioteca\\Controllers\\LocatarioController.cs",
+              "RelativeToolTip": "Biblioteca\\Controllers\\LocatarioController.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAADwv4IAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:41:03.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Albrecht\\source\\repos\\Biblioteca\\Biblioteca\\Model\\Autor.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Model\\Autor.cs",
+              "ToolTip": "C:\\Users\\Victor Albrecht\\source\\repos\\Biblioteca\\Biblioteca\\Model\\Autor.cs",
+              "RelativeToolTip": "Biblioteca\\Model\\Autor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:41:34.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AluguelProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Albrecht\\source\\repos\\Biblioteca\\Biblioteca\\Profiles\\AluguelProfile.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Profiles\\AluguelProfile.cs",
+              "ToolTip": "C:\\Users\\Victor Albrecht\\source\\repos\\Biblioteca\\Biblioteca\\Profiles\\AluguelProfile.cs",
+              "RelativeToolTip": "Biblioteca\\Profiles\\AluguelProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:41:23.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LocatarioProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Albrecht\\source\\repos\\Biblioteca\\Biblioteca\\Profiles\\LocatarioProfile.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Profiles\\LocatarioProfile.cs",
+              "ToolTip": "C:\\Users\\Victor Albrecht\\source\\repos\\Biblioteca\\Biblioteca\\Profiles\\LocatarioProfile.cs",
+              "RelativeToolTip": "Biblioteca\\Profiles\\LocatarioProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:40:41.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
