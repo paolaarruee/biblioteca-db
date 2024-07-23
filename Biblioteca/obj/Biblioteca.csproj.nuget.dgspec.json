@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Victor Albrecht\\source\\repos\\Biblioteca\\Biblioteca\\Biblioteca.csproj": {}
+    "D:\\git\\projetos-db\\projetosdb\\academia\\biblioteca-db\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Victor Albrecht\\source\\repos\\Biblioteca\\Biblioteca\\Biblioteca.csproj": {
+    "D:\\git\\projetos-db\\projetosdb\\academia\\biblioteca-db\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Victor Albrecht\\source\\repos\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "D:\\git\\projetos-db\\projetosdb\\academia\\biblioteca-db\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\Victor Albrecht\\source\\repos\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "D:\\git\\projetos-db\\projetosdb\\academia\\biblioteca-db\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\Victor Albrecht\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Victor Albrecht\\source\\repos\\Biblioteca\\Biblioteca\\obj\\",
+        "outputPath": "D:\\git\\projetos-db\\projetosdb\\academia\\biblioteca-db\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Victor Albrecht\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Victor Albrecht\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -96,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

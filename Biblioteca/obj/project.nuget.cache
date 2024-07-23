@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LOGfDxlsDKk=",
+  "dgSpecHash": "yi7kHTTP/Ok=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Victor Albrecht\\source\\repos\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
+  "projectFilePath": "D:\\git\\projetos-db\\projetosdb\\academia\\biblioteca-db\\Biblioteca\\Biblioteca.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Victor Albrecht\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Victor Albrecht\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",

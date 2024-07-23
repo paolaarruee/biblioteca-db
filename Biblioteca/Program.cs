@@ -1,6 +1,7 @@
 using AutoMapper;
 using Biblioteca.Data;
 using Microsoft.EntityFrameworkCore;
+using Biblioteca.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 var connectionString = builder.Configuration.GetConnectionString("BibliotecaConnection");
@@ -12,7 +13,13 @@ builder.Services.AddDbContext<BibliotecaContext>(opts =>
 builder.Services.AddAutoMapper(typeof(Program));
 
 
-builder.Services.AddControllers();
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+
+
+builder.Services.AddScoped<LivroService>();
+builder.Services.AddScoped<LocatarioService>();
+builder.Services.AddScoped<AluguelService>();
+builder.Services.AddScoped<AutorService>();
 
 
 builder.Services.AddEndpointsApiExplorer();
